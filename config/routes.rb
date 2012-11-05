@@ -1,4 +1,34 @@
 HtmlHometask::Application.routes.draw do
+  get "number3/number2"
+
+  get "number3/number3"
+
+  get "number3/index"
+
+  get "number3/about"
+
+  get "number3/help"
+
+  get "number2/number2"
+
+  get "number2/number3"
+
+  get "number2/index"
+
+  get "number2/about"
+
+  get "number2/help"
+
+  get "number1/number2"
+
+  get "number1/number3"
+
+  get "number1/index"
+
+  get "number1/about"
+
+  get "number1/help"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
